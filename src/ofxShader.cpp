@@ -1,5 +1,7 @@
 #include "ofxShader.h"
 
+#include "GLee.h"
+
 ofxShader::ofxShader() :
 	bLoaded(false) {
 }
